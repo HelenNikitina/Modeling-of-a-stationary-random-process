@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modeling of a stationary random process", "Modeling of a stationary random process.csproj", "{E07BFFC4-D39F-4160-917E-27C613760CAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{480FE03D-F9B4-423E-AF65-5DE5DB2A7EC6}"
+	ProjectSection(SolutionItems) = preProject
+		MyRNormClass.cs = MyRNormClass.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E07BFFC4-D39F-4160-917E-27C613760CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07BFFC4-D39F-4160-917E-27C613760CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07BFFC4-D39F-4160-917E-27C613760CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07BFFC4-D39F-4160-917E-27C613760CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDF3DA5F-AE12-4E4E-AC05-D8A96959C98F}
+	EndGlobalSection
+EndGlobal
